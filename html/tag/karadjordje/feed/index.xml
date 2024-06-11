@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Karadjordje Archives - Spomen obeležje Čegar</title>
+	<atom:link href="/tag/karadjordje/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/karadjordje/</link>
+	<description></description>
+	<lastBuildDate>Tue, 11 Jun 2024 13:46:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/06/castle-4.png</url>
+	<title>Karadjordje Archives - Spomen obeležje Čegar</title>
+	<link>/tag/karadjordje/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Knjiga utisaka</title>
+		<link>/2024/06/05/hello-world/</link>
+					<comments>/2024/06/05/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[Martin]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 12:19:04 +0000</pubDate>
+				<category><![CDATA[Čegar]]></category>
+		<category><![CDATA[Cegar Hill]]></category>
+		<category><![CDATA[Karadjordje]]></category>
+		<category><![CDATA[Karađorđe]]></category>
+		<category><![CDATA[Niš]]></category>
+		<category><![CDATA[Prvi srpski ustanak]]></category>
+		<category><![CDATA[Srbija]]></category>
+		<category><![CDATA[Turska]]></category>
+		<category><![CDATA[Vojska]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[<p>The post <a href="/2024/06/05/hello-world/">Knjiga utisaka</a> appeared first on <a href="">Spomen obeležje Čegar</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<div class="wp-block-group has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-1 wp-block-group-is-layout-constrained" style="background-color:#f79d5c;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40)">
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-base-2-color has-text-color has-background has-link-color wp-element-button" href="/" style="background-color:#0b0033;padding-right:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--10);box-shadow:var(--wp--preset--shadow--natural)">Nazad na glavnu stranicu</a></div>
+</div>
+</div>
+<p>The post <a href="/2024/06/05/hello-world/">Knjiga utisaka</a> appeared first on <a href="">Spomen obeležje Čegar</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/06/05/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
